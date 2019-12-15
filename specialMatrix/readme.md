@@ -1,4 +1,4 @@
-##Special Matrix
+## Special Matrix
 This function will output a matrix with the following qualities:
 
 *The value in each element in the first row is the number of the column
